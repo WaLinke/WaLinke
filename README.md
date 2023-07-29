@@ -3,6 +3,7 @@
 <p>Welcome to my page! </br> I'm Julien, Fullstack developer from <img src="https://github.com/WaLinke/WaLinke/assets/24798306/240f7672-fdbc-4494-b62d-91c3df9fbd2e" width="14"/> <b>Liège, Belgique</b></p>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=walinke)
+
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-dejace-2a1212135/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julien.dejace@gmail.com)](mailto:julien.dejace@gmail.com)
 
