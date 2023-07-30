@@ -5,7 +5,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=walinke&style=for-the-badge)
 
 [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdBLEpdmkrXi-1pPiqQTrig)
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-dejace-2a1212135/)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-dejace/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/walinkeio)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julien.dejace@gmail.com)](mailto:julien.dejace@gmail.com)
 
